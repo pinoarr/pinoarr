@@ -3,7 +3,7 @@
 I'm an 18-year-old student at LMU in Munich, diving into the worlds of **Data Science** and **Philosophy** with a focus on **Logic**. My journey combines a love for both analytical rigor and philosophical inquiry, where code and critical thinking come together.
 
 ### 🌟 About Me:
-- 📚 **Studying:** Data Science & Philosophy (Logic focus) at Ludwig-Maximilians-Universität Munich (LMU)
+- 📚 **Studying:** Data Science & Philosophy (Logic focus) at Ludwig-Maximilians-Universität Munich 
 - 💪 **Fitness Enthusiast:** Sports and gym are part of my daily routine. (I also skate 🛹 reguarly!) 
 - 🎶 **Producer:** I enjoy making music, playing the piano 🎹, and strumming the guitar 🎸
   
